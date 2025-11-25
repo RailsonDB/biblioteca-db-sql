@@ -23,4 +23,4 @@ Qual mês teve o maior número de empréstimos?
 
 E qual mês teve o menor número de empréstimos?
 
-Agora, queremos um Ranking dos usuários que mais utilizaram a nossa biblioteca
+Ranking dos usuários que mais utilizaram a nossa biblioteca
