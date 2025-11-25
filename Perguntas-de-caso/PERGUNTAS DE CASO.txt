@@ -1,0 +1,26 @@
+PERGUNTAS DE CASO:
+
+
+Quais livros estão cadastrados na biblioteca?
+
+Quais usuários já fizeram algum empréstimo?
+
+Quantos livros existem cadastrados por categoria?
+
+Quantos empréstimos já foram realizados no total?
+
+Quais livros foram publicados depois de 2015?
+
+Quais livros nunca foram emprestados?
+
+Quantos empréstimos cada usuário já fez?
+
+Quais são os 5 livros mais emprestados?
+
+Quais categorias de livros são mais populares em empréstimos?
+
+Qual mês teve o maior número de empréstimos?
+
+E qual mês teve o menor número de empréstimos?
+
+Agora, queremos um Ranking dos usuários que mais utilizaram a nossa biblioteca
