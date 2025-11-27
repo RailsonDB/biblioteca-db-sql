@@ -1,6 +1,6 @@
 # 📚 Projeto Biblioteca - SQL
 
-# 🛠️ Tecnlogias utilizadas
+## 🛠️ Tecnlogias utilizadas
 
 - MySQL
 - -SQL
