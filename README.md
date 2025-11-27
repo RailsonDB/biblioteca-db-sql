@@ -1,12 +1,12 @@
 # 📚 Projeto Biblioteca - SQL
 
-## 🛠️ Tecnlogias utilizadas
+### 🛠️ Tecnlogias utilizadas
 
 - MySQL
 - -SQL
 
 
-# 📁 Estrutura do projeto
+## 📁 Estrutura do projeto
 
 - *Banco-de-Dados* -> Script de criação das tabelas
 - *Consultas-SQL* -> Queries de análise
