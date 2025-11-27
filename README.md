@@ -51,5 +51,5 @@ Após a execução, o ambiente estará pronto para uso.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Railson Silva**
+Desenvolvido por **Railson Silva**<br>
 📚 Em formação para atuar como **Analista de Dados**
