@@ -1,6 +1,6 @@
 # 📚 Projeto Biblioteca - SQL
 
-### 🛠️ Tecnlogias utilizadas
+## 🛠️ Tecnlogias utilizadas
 
 - MySQL
 - -SQL
@@ -13,7 +13,7 @@
 - *Perguntas-de-Caso* -> Perguntas de negócio
 
 
-# 🎯 Objetivo do projeto
+## 🎯 Objetivo do projeto
 
 Simular um sistema de biblioteca para praticar:
 - Relacionamentos entre tabelas
