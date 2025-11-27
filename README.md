@@ -2,10 +2,10 @@
 
 ## 📌 Resumo do Projeto
 
-Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais<br>
-de **banco de dados relacionais usando MySQL**
-A ideia principal do projeto é simular um pequeno sistema de funcionamento de uma biblioteca,<br>
-permitindo cadastro de livros e o controle de empréstimos feitos por usuário.<br>
+Este projeto foi desenvolvido com o objetivo de praticar conceitos<br>
+fundamentais de **banco de dados relacionais usando MySQL**
+A ideia principal do projeto é simular um pequeno sistema de funcionamento de uma<br>
+biblioteca, permitindo cadastro de livros e o controle de empréstimos feitos por usuário.<br>
 Com esse projeto, treinei:<br>
 - Criação e estruturação de tabelas.<br>
 - Definição de chaves primárias e estrangeiras.<br>
