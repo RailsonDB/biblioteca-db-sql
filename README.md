@@ -3,7 +3,7 @@
 ## 🛠️ Tecnlogias utilizadas
 
 - MySQL
-- -SQL
+- SQL
 
 
 ## 📁 Estrutura do projeto
