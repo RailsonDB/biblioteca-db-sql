@@ -37,7 +37,7 @@ Simular um sistema de biblioteca para praticar:
 
 Faça o download do script localizado na pasta **banco-de-Dados** deste repositório.<br>
 Em seguida, importe o arquivo no MySQL Workbench (ou outro gerenciador MySQL) e <br>
-execute o scrip para criar o banco de dados e as tabelas do projeto.<br>
+execute o scrip para selecionar o banco de dados e as tabelas do projeto.<br>
 
 ```sql
 USE biblioteca_db;
