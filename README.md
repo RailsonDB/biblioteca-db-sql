@@ -34,7 +34,7 @@ Simular um sistema de biblioteca para praticar:
 - SQL
 
 
-## 📷 Prévia do Projeto
+## 📷 Preview do Projeto
 
 ![Projeto biblioteca db](https://github.com/user-attachments/assets/147402e8-c590-44f0-816d-154e275639c8)
 
