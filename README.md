@@ -33,6 +33,11 @@ Simular um sistema de biblioteca para praticar:
 - MySQL
 - SQL
 
+
+## 📷 Prévia do Projeto
+
+![Projeto biblioteca db]("C:\Users\rails\OneDrive\Pictures\Screenshots\biblioteca_db.png")
+
 ## ▶️ Como usar este projeto no MySQL
 
 Faça o download do script localizado na pasta **banco-de-Dados** deste repositório.<br>
