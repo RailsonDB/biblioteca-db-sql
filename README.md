@@ -36,7 +36,8 @@ Simular um sistema de biblioteca para praticar:
 
 ## 📷 Prévia do Projeto
 
-![Projeto biblioteca db]("C:\Users\rails\OneDrive\Pictures\Screenshots\biblioteca_db.png")
+![Projeto biblioteca db](<img width="1599" height="850" alt="Captura de tela 2025-11-29 091602" src="https://github.com/user-attachments/assets/147402e8-c590-44f0-816d-154e275639c8" />
+)
 
 ## ▶️ Como usar este projeto no MySQL
 
